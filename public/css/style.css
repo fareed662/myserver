@@ -1,0 +1,47 @@
+p {
+  margin: 10px 0 !important;   
+  }
+
+.login-container{
+  width: 400px;  
+  margin-top: 50px;
+  text-align: center;
+  color:aqua;
+}
+.divider{
+ background-color: aqua;
+}
+
+.fa-small{
+  font-size: 16px !important;
+}
+.btn-float{
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small{
+  width: 180px;
+}
+
+.card.st{
+  background-color:blue ;
+  border-radius: 20px;
+}
+.style{
+  color: blue;
+  background-color: aqua;
+  border-radius: 20px;
+}
+.lco{
+  background-color: blue;
+  color: aqua;
+}
+.vv{
+  color: aqua;
+}
+
+
+.pa{
+  padding: 20px;
+}
